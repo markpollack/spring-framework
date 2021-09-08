@@ -1,7 +1,7 @@
 name: framework
 title: Spring Framework
-#version: 5.3.9
-display_version: 5.3.9
-start_page: ROOT:overview.adoc
+version: '5.3.9'
+#display_version: 5.3.9
+#start_page: framework:ROOT:index.adoc
 nav:
 - modules/ROOT/nav.adoc
